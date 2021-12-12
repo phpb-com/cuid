@@ -26,7 +26,8 @@
     "uglify-js": "3.7.5",
     "updtr": "3.1.0",
     "watchify": "3.11.1",
-    "glob-parent": ">=5.1.2"
+    "glob-parent": ">=5.1.2",
+    "set-value": ">=2.0.1"
   },
   "files": [
     "lib",
